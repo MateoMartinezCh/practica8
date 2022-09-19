@@ -3,3 +3,6 @@ h1 {
 	text-decoration: underline;
 	text-align: center;
 }
+p {
+	text-shadow: 0.1em 0.1em 0.2em slategrey;
+}
